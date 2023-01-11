@@ -1,2 +1,2 @@
 # validador de CPF
-- Recebe um cpf e retorna se ele é válido ou não.
+- Recebe um cpf e retorna se ele é válido ou não utilizando prototypes.
